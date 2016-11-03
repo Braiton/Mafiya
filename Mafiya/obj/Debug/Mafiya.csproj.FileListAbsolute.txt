@@ -1,0 +1,5 @@
+C:\Users\TheMoisha\Desktop\exercises\afiya\Mafiya\bin\Mafiya.dll
+C:\Users\TheMoisha\Desktop\exercises\afiya\Mafiya\bin\Mafiya.pdb
+C:\Users\TheMoisha\Desktop\exercises\afiya\Mafiya\obj\Debug\Mafiya.csprojResolveAssemblyReference.cache
+C:\Users\TheMoisha\Desktop\exercises\afiya\Mafiya\obj\Debug\Mafiya.dll
+C:\Users\TheMoisha\Desktop\exercises\afiya\Mafiya\obj\Debug\Mafiya.pdb
